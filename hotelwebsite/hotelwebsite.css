@@ -1,0 +1,83 @@
+*{
+	font-family: 'Red Rose', cursive;
+}
+ul{
+	list-style: none;
+	text-align: center;
+	word-spacing: 5px;
+
+}
+li{
+	display: inline;
+	border-spacing: 10px;
+	color: black;
+}
+#size{
+	font-size: 30px;
+	
+}
+#navbarSupportedContent{
+	margin-top: -10px;
+}
+#margin{
+	margin-top: -10px;
+	border-radius: 15px;
+}
+.btn{
+	background-color: black;
+}
+.container{
+	padding: 30px;
+	text-align: center;
+	margin-left: -10px;
+}
+.settings{
+	margin-top: -80px;
+	font-size: 30px;
+	margin-right: -240px;
+	color: blue;
+}
+.setting{
+	margin-right: -240px;
+	color: green;
+}
+
+#center{
+	margin-left: 450px;
+	
+	text-align: left;
+    text-decoration-color: yellow;
+}
+#left{
+	margin-left: 100px;
+	
+	text-align: left;
+
+}
+#lefty{
+	margin-left: 450px;
+	
+	text-align: left;
+
+	margin-top: 70px;
+}
+#lefti{
+	margin-left: 800px;
+	
+	text-align: left;
+
+	margin-top: -320px;
+}
+.foot{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	margin-top: 70px;
+}
+.nav-item:hover{
+    background-color: orange;
+}
+.foot:hover{
+	color: red;
+}

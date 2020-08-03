@@ -1,0 +1,29 @@
+h1{
+	font-family: 'Dancing Script', cursive;
+}
+.design{
+	font-family: 'Montserrat', sans-serif;
+}
+.designing{
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 60px;
+}
+#perfection{
+	
+	background-color: black;
+	color: white;
+	padding-top: 5px;
+    margin-right: 200px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.perfect{
+	
+	background-color: black;
+	color: white;
+	padding-top: 5px;
+    margin-right: 400px;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-top: 40px;
+}

@@ -1,0 +1,26 @@
+h1{
+	font-family: 'Alfa Slab One', cursive;
+	text-decoration: underline;
+}
+.dist{
+	background-color: black;
+	color: white;
+	margin-right: 970px;
+	padding: 5px;
+	margin-top: 30px;
+}
+.style{
+	font-family: 'Alfa Slab One', cursive;
+font-family: 'Courgette', cursive;
+}
+.shrinking{
+	height: 300px;
+	border-radius: 50%;
+}
+.disting{
+	background-color: black;
+	color: white;
+	margin-top: 20px;
+	margin-right: 400px;
+	padding: 5px;
+}

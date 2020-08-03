@@ -1,0 +1,21 @@
+.black{
+	background-color: black;
+	color: white;
+	padding: 10px;
+	margin-top: 20px;
+}
+h1{
+	font-family: 'PT Serif', serif;
+	text-decoration: underline;
+	}
+.card-text{
+	width: 230px;
+}	
+.card-body{
+	background-color: black;
+	color: white;
+}
+.card-title{
+	text-decoration: underline;
+}
+
